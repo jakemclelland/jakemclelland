@@ -1,4 +1,13 @@
+[![Header](https://github.com/jakemclelland/jakemclelland/blob/main/assets/latest_story.png "Header")](https://jakemclelland.github.io/cv/)
+
 ### Hi there 👋
+
+I'm Jake
+
+a programmer
+
+
+<a href="https://stackoverflow.com/users/2859272/jakemc"><img src="https://stackoverflow.com/users/flair/2859272.png?theme=dark" width="208" height="58" alt="profile for JakeMc at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for JakeMc at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--
 **jakemclelland/jakemclelland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
