@@ -11,7 +11,7 @@ public class Jake
 {
 	public Jake()
 	{
-		Code = new List<string>{"C#", "SQL", "SSIS", "JavaScript", "Learning Swift"};
+		Code = new List<string>{"i dream in C#", "and SQL", "and SSIS", "my nightmares usually involve JavaScript", "but Swift seems pretty cool"};
 		Favorites = new List<string>{"the ancient art of bonsai"};
 		Contacts = new List<string>{"https://www.linkedin.com/in/jakemclelland/"};
 	}
@@ -27,7 +27,7 @@ public class Jake
 		{
 			case InquiryType.Code:
 				aboutMe.AppendLine("So tell me, what are you doing these days?");
-				Code.ForEach(_ => aboutMe.AppendLine($"  writing {_}"));
+				Code.ForEach(_ => aboutMe.AppendLine($"  {_}"));
 				break;
 			case InquiryType.Favorites:
 				aboutMe.AppendLine("And what's cool right now?");
