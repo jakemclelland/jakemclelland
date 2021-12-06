@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 
-I'm Jake
+I'm Jake. . . a programmer
 
-a programmer
+<p>It wasn't long ago that a great way to send data to someone was to attach a small note to the leg to a carrier pigeon. Fortunately, these days, we don’t need to employ millions of pigeons in order to sync tables between two database systems. Now all those pigeons are free to retire to their big city havens to snag tasty morsels from unsuspecting pedestrians.</p>
 
 ```c#
 public class Jake
@@ -22,24 +22,24 @@ public class Jake
 
 	public string TellMeAboutYourself(InquiryType inquiry)
 	{
-		StringBuilder dope = new StringBuilder();
+		StringBuilder aboutMe = new StringBuilder();
 		switch (inquiry)
 		{
 			case InquiryType.Code:
-				dope.AppendLine("So tell me, what are you doing these days?");
-				Code.ForEach(_ => dope.AppendLine($"  writing {_}"));
+				aboutMe.AppendLine("So tell me, what are you doing these days?");
+				Code.ForEach(_ => aboutMe.AppendLine($"  writing {_}"));
 				break;
 			case InquiryType.Favorites:
-				dope.AppendLine("And what's cool right now?");
-				Favorites.ForEach(_ => dope.AppendLine($"  {_}"));
+				aboutMe.AppendLine("And what's cool right now?");
+				Favorites.ForEach(_ => aboutMe.AppendLine($"  {_}"));
 				break;
 			case InquiryType.Contact:
-				dope.AppendLine("How may I contact you?");
-				Contacts.ForEach(_ => dope.AppendLine($"  find me on {_}"));
+				aboutMe.AppendLine("How may I contact you?");
+				Contacts.ForEach(_ => aboutMe.AppendLine($"  find me on {_}"));
 				break;
 		}
 		
-		return dope.ToString();
+		return aboutMe.ToString();
 	}
 }
 
