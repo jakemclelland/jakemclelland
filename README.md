@@ -6,9 +6,64 @@ I'm Jake
 
 a programmer
 
+```c#
+public class Jake
+{
+	public Jake()
+	{
+		Code = new List<string>{"C#", "SQL", "SSIS", "JavaScript", "Learning Swift"};
+		Favorites = new List<string>{"the ancient art of bonsai"};
+		Contacts = new List<string>{"https://www.linkedin.com/in/jakemclelland/"};
+	}
+
+	public List<string> Code { get; set; }
+	public List<string> Favorites { get; set; }
+	public List<string> Contacts { get; set; }
+
+	public string TellMeAboutYourself(InquiryType inquiry)
+	{
+		StringBuilder dope = new StringBuilder();
+		switch (inquiry)
+		{
+			case InquiryType.Code:
+				dope.AppendLine("So tell me, what are you doing these days?");
+				Code.ForEach(_ => dope.AppendLine($"  writing {_}"));
+				break;
+			case InquiryType.Favorites:
+				dope.AppendLine("And what's cool right now?");
+				Favorites.ForEach(_ => dope.AppendLine($"  {_}"));
+				break;
+			case InquiryType.Contact:
+				dope.AppendLine("How may I contact you?");
+				Contacts.ForEach(_ => dope.AppendLine($"  find me on {_}"));
+				break;
+		}
+		
+		return dope.ToString();
+	}
+}
+
+public static void Main()
+{
+	var me = new Jake();
+	Console.WriteLine(me.TellMeAboutYourself(InquiryType.Code));
+	Console.WriteLine(me.TellMeAboutYourself(InquiryType.Favorites));
+	Console.WriteLine(me.TellMeAboutYourself(InquiryType.Contact));
+}
+
+public enum InquiryType
+{
+	Code,
+	Favorites,
+	Contact
+}
+```
+<a href="https://dotnetfiddle.net/HGqeVp">run on dotnetfiddle.net</a>
 
 <a href="https://stackoverflow.com/users/2859272/jakemc"><img src="https://stackoverflow.com/users/flair/2859272.png?theme=dark" width="208" height="58" alt="profile for JakeMc at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for JakeMc at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="jakemclelland" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jakemclelland?trk=profile-badge">Jake McLelland</a></div>
+              
 <!--
 **jakemclelland/jakemclelland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
