@@ -4,15 +4,15 @@
 
 I'm Jake. . . a programmer
 
-<p>It wasn't long ago that a great way to send data to someone was to attach a small note to the leg to a carrier pigeon. Fortunately, these days, we don’t need to employ millions of pigeons in order to sync tables between two database systems. Now all those pigeons are free to retire to their big city havens to snag tasty morsels from unsuspecting pedestrians.</p>
+<p>It wasn't long ago that a great way to send data to someone was to attach a small note to the leg to a carrier pigeon. Fortunately, these days, we don’t need to employ millions of pigeons in order to sync data between two systems. Now all those pigeons are free to retire to their big city havens to snag tasty morsels from unsuspecting pedestrians.</p>
 
 ```c#
 public class Jake
 {
 	public Jake()
 	{
-		Code = new List<string>{"i dream in C#", "and SQL", "and SSIS", "my nightmares usually involve JavaScript", "but Swift seems pretty cool"};
-		Favorites = new List<string>{"the ancient art of bonsai"};
+		Code = new List<string>{"i dream in C#", "and SQL", "and SSIS", "my nightmares usually involve JavaScript", "but Swift and React Native seems pretty cool"};
+		Favorites = new List<string>{"reading old books", "the ancient art of bonsai", "aquascape aquariums"};
 		Contacts = new List<string>{"https://www.linkedin.com/in/jakemclelland/"};
 	}
 
