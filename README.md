@@ -66,9 +66,10 @@ public class Program
 ```
 <a href="https://dotnetfiddle.net/HGqeVp">run on dotnetfiddle.net :point_up_2:</a>
 
+<p>Find me on:</p>
 <a href="https://stackoverflow.com/users/2859272/jakemc"><img src="https://stackoverflow.com/users/flair/2859272.png?theme=dark" width="208" height="58" alt="profile for JakeMc at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for JakeMc at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="jakemclelland" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jakemclelland?trk=profile-badge">Find me on Linked In</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="jakemclelland" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jakemclelland?trk=profile-badge"><img alt="Linked In Logo" src="https://github.com/jakemclelland/jakemclelland/blob/main/assets/linked-in-logo.jpg"></a></div>
 
 <div>
    <a href="https://www.codepoetllc.com"><img alt="Codepoet Logo" src="https://github.com/jakemclelland/jakemclelland/blob/main/assets/codepoet-logo.jpg"></a>
