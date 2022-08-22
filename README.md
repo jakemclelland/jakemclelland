@@ -6,6 +6,9 @@ I'm Jake. . . a programmer
 
 <p>It wasn't long ago that a great way to send data to someone was to attach a small note to the leg to a carrier pigeon. Fortunately, these days, we don’t need to employ millions of pigeons in order to sync data between two systems. Now all those pigeons are free to retire to their big city havens to snag tasty morsels from unsuspecting pedestrians.</p>
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <a href="https://dotnetfiddle.net/HGqeVp">run on dotnetfiddle.net :point_down:</a>
 ```c#
