@@ -13,6 +13,11 @@ I'm Jake. . . a programmer
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by JakeMc for How to validate the date in a varchar column in SQL Server](https://stackoverflow.com/questions/72097021/how-to-validate-the-date-in-a-varchar-column-in-sql-server/72179170#72179170)
+- [How do I use a custom confirmation method when window.onbeforeunload happens [duplicate]](https://stackoverflow.com/questions/71519864/how-do-i-use-a-custom-confirmation-method-when-window-onbeforeunload-happens)
+- [Answer by JakeMc for DB2 Case When Exists](https://stackoverflow.com/questions/41286721/db2-case-when-exists/69257353#69257353)
+- [Answer by JakeMc for How to move HTML element above or below another element using an animation](https://stackoverflow.com/questions/68643430/how-to-move-html-element-above-or-below-another-element-using-an-animation/68779024#68779024)
+- [How to move HTML element above or below another element using an animation](https://stackoverflow.com/questions/68643430/how-to-move-html-element-above-or-below-another-element-using-an-animation)
 <!-- STACKOVERFLOW:END -->
 
 # If I Were a Program
