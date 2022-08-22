@@ -8,6 +8,7 @@ I'm Jake. . . a programmer
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Combining two datasets into one](https://dev.to/jakemclelland/combining-two-datasets-into-one-3826)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://dotnetfiddle.net/HGqeVp">run on dotnetfiddle.net :point_down:</a>
