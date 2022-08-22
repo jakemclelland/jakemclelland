@@ -11,6 +11,11 @@ I'm Jake. . . a programmer
 - [Combining two datasets into one](https://dev.to/jakemclelland/combining-two-datasets-into-one-3826)
 <!-- BLOG-POST-LIST:END -->
 
+# StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
+# If I Were a Program
 <a href="https://dotnetfiddle.net/HGqeVp">run on dotnetfiddle.net :point_down:</a>
 ```c#
 
