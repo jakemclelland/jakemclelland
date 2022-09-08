@@ -1,4 +1,4 @@
-[![Header](https://github.com/jakemclelland/jakemclelland/blob/main/assets/latest_story.png "Header")](https://jakemclelland.github.io/cv/)
+[![Header](https://github.com/jakemclelland/jakemclelland/blob/main/assets/Pigeon%2020220904-02.png "Header")](https://jakemclelland.github.io/cv/)
 
 ### Hi there 👋
 
