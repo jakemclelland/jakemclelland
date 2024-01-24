@@ -15,11 +15,11 @@ I'm Jake. . . a programmer
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by JakeMc for How to alternate div display based on class name](https://stackoverflow.com/questions/77867345/how-to-alternate-div-display-based-on-class-name/77867544#77867544)
 - [Answer by JakeMc for Stuck while doing code first migration with Entity Framework Core 6.0](https://stackoverflow.com/questions/73557508/stuck-while-doing-code-first-migration-with-entity-framework-core-6-0/73558756#73558756)
 - [Answer by JakeMc for Use Select instead of Include](https://stackoverflow.com/questions/73309174/use-select-instead-of-include/73506720#73506720)
 - [Join multiple columns where one column is nullable in one table but not the other](https://stackoverflow.com/questions/73493381/join-multiple-columns-where-one-column-is-nullable-in-one-table-but-not-the-othe)
 - [Answer by JakeMc for How to validate the date in a varchar column in SQL Server](https://stackoverflow.com/questions/72097021/how-to-validate-the-date-in-a-varchar-column-in-sql-server/72179170#72179170)
-- [How do I use a custom confirmation method when window.onbeforeunload happens [duplicate]](https://stackoverflow.com/questions/71519864/how-do-i-use-a-custom-confirmation-method-when-window-onbeforeunload-happens)
 <!-- STACKOVERFLOW:END -->
 
 # If I Were a Program
