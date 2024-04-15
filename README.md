@@ -82,6 +82,8 @@ public class Program
 ```
 <a href="https://dotnetfiddle.net/HGqeVp">run on dotnetfiddle.net :point_up_2:</a>
 
+<p><a href="https://forms.gle/XbNLBM1YMcb7UNzz7">Hire Me</a></p>
+
 <p>Find me on:</p>
 <a href="https://stackoverflow.com/users/2859272/jakemc"><img src="https://stackoverflow.com/users/flair/2859272.png?theme=dark" width="208" height="58" alt="profile for JakeMc at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for JakeMc at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
