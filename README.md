@@ -6,6 +6,8 @@ I'm Jake. . . a programmer
 
 <p>It wasn't long ago that a great way to send data to someone was to attach a small note to the leg to a carrier pigeon. Fortunately, these days, we don’t need to employ millions of pigeons in order to sync data between two systems. Now all those pigeons are free to retire to their big city havens to snag tasty morsels from unsuspecting pedestrians.</p>
 
+<p>Also a certified <a href="https://www.credly.com/badges/305cd2d9-929d-4b65-9bed-f06c3611b91f/public_url">Professional Scrum Master PCM (PSM I)</a></p>
+
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Syntactic Elegance-The Developer’s Dream](https://dev.to/jakemclelland/syntactic-elegance-the-developers-dream-329b)
