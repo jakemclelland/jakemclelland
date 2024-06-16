@@ -8,7 +8,7 @@ I'm Jake. . . a programmer
 
 <p>Also a certified <a href="https://www.credly.com/badges/305cd2d9-929d-4b65-9bed-f06c3611b91f/public_url">Professional Scrum Master PCM (PSM I)</a></p>
 
-<p>Check out my resume profile <a href="https://jakemclelland.github.io/resume/">here</a>.</p>
+<p>Check out my resume page <a href="https://jakemclelland.github.io/resume/">here</a>.</p>
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
