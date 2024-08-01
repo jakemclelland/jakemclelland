@@ -19,11 +19,11 @@ I'm Jake. . . a programmer
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by JakeMc for Deploy .Net Aspire project to an Azure VM](https://stackoverflow.com/questions/78810200/deploy-net-aspire-project-to-an-azure-vm/78816965#78816965)
 - [Answer by JakeMc for Why can&#39;t I use table names of aliased tables in WHERE clause?](https://stackoverflow.com/questions/78678900/why-cant-i-use-table-names-of-aliased-tables-in-where-clause/78679140#78679140)
 - [Answer by JakeMc for How to alternate div display based on class name](https://stackoverflow.com/questions/77867345/how-to-alternate-div-display-based-on-class-name/77867544#77867544)
 - [Answer by JakeMc for Stuck while doing code first migration with Entity Framework Core 6.0](https://stackoverflow.com/questions/73557508/stuck-while-doing-code-first-migration-with-entity-framework-core-6-0/73558756#73558756)
 - [Answer by JakeMc for Use Select instead of Include](https://stackoverflow.com/questions/73309174/use-select-instead-of-include/73506720#73506720)
-- [Join multiple columns where one column is nullable in one table but not the other](https://stackoverflow.com/questions/73493381/join-multiple-columns-where-one-column-is-nullable-in-one-table-but-not-the-othe)
 <!-- STACKOVERFLOW:END -->
 
 # If I Were a Program
