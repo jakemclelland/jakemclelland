@@ -12,6 +12,7 @@ I'm Jake. . . a programmer
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Some thoughts on AI](https://dev.to/jakemclelland/some-thoughts-on-ai-5g6i)
 - [Syntactic Elegance-The Developer’s Dream](https://dev.to/jakemclelland/syntactic-elegance-the-developers-dream-329b)
 - [Handling Duplicate Records](https://dev.to/jakemclelland/handling-duplicate-records-4l57)
 - [Combining two datasets into one](https://dev.to/jakemclelland/combining-two-datasets-into-one-3826)
