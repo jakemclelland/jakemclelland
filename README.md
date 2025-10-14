@@ -21,11 +21,11 @@ I'm Jake. . . a programmer
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by JakeMc for How to implement HSTS &lpar;Strict-Transport-Security&rpar; in a Vue.js SPA hosted on Azure App Service?](https://stackoverflow.com/questions/79621454/how-to-implement-hsts-strict-transport-security-in-a-vue-js-spa-hosted-on-azur/79789624#79789624)
 - [Answer by JakeMc for Skip current line in debugger](https://stackoverflow.com/questions/31474563/skip-current-line-in-debugger/79709687#79709687)
 - [Answer by JakeMc for Is there a way to debug code in VsCode initiated with Vite?](https://stackoverflow.com/questions/66147328/is-there-a-way-to-debug-code-in-vscode-initiated-with-vite/79468088#79468088)
 - [Answer by JakeMc for Deploy .Net Aspire project to an Azure VM](https://stackoverflow.com/questions/78810200/deploy-net-aspire-project-to-an-azure-vm/78816965#78816965)
 - [Answer by JakeMc for Why can&#39;t I use table names of aliased tables in WHERE clause?](https://stackoverflow.com/questions/78678900/why-cant-i-use-table-names-of-aliased-tables-in-where-clause/78679140#78679140)
-- [Answer by JakeMc for How to alternate div display based on class name](https://stackoverflow.com/questions/77867345/how-to-alternate-div-display-based-on-class-name/77867544#77867544)
 <!-- STACKOVERFLOW:END -->
 
 # If I Were a Program
